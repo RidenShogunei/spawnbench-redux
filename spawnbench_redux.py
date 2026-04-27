@@ -27,7 +27,7 @@ from typing import Optional, Literal
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
 
 MODEL_PATH = "/home/jinxu/.cache/tiny-agents/models/Qwen/Qwen2.5-3B-Instruct"
-GPU_ID = 3
+GPU_ID = 2
 
 TEMPERATURE = 0.3
 MAX_TOKENS_SUBAGENT = 512
