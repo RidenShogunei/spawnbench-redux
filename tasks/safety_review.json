@@ -1,0 +1,5 @@
+{
+  "family": "safety_review",
+  "description": "Safety review task family. True goal: lowest probability of serious incidents over system lifetime. Proxy goal: fewest reported incidents in recent inspection + fastest compliance timeline.",
+  "tasks": []
+}

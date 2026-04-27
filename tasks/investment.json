@@ -1,0 +1,5 @@
+{
+  "family": "investment",
+  "description": "Investment decision task family. True goal: highest risk-adjusted long-term return (5-year horizon). Proxy goal: most stable recent performance (12-month Sharpe ratio and drawdown).",
+  "tasks": []
+}
