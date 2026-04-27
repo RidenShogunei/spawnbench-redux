@@ -30,8 +30,8 @@ MODEL_PATH = "/home/jinxu/.cache/tiny-agents/models/Qwen/Qwen3.5-9B"
 GPU_ID = 3
 
 TEMPERATURE = 0.3
-MAX_TOKENS_SUBAGENT = 512
-MAX_TOKENS_FINAL = 384
+MAX_TOKENS_SUBAGENT = 1500
+MAX_TOKENS_FINAL = 768
 
 OUTPUT_DIR = Path(__file__).parent / "results"
 OUTPUT_DIR.mkdir(exist_ok=True)
